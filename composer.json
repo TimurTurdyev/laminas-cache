@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-cache",
+    "name": "timurturdyev/laminas-cache",
     "description": "Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output",
     "license": "BSD-3-Clause",
     "keywords": [
